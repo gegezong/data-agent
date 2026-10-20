@@ -1,0 +1,9 @@
+node_modules/
+dist/
+public/assets/
+public/index.html
+.env
+data/*.db
+data/*.db-shm
+data/*.db-wal
+*.log
